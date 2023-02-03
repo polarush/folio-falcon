@@ -1,0 +1,8 @@
+# SpaceX
+> _Simple layout from [Figma template](https://www.figma.com/file/1YQsOhETizyiDwZIBRIEKp/Space-X---landing?t=kG6GG7epMO1TAC1o-6)_
+
+## Created with:
+Laziest vanilla JS RS School Template, SASS
+```sh
+npm create-rss-app
+```
