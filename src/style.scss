@@ -1,0 +1,41 @@
+.body {
+    background-color: #010001;
+
+
+    .header {
+        display: flex;
+        flex-direction: row;
+        max-width: 1231px;
+        color: #FFF;
+        width: 100%;
+        justify-content: space-between;
+        margin: 0 auto;
+
+
+        .header__list {
+            list-style: none;
+            display: flex;
+            flex-direction: row;
+            column-gap: 20px;
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+
+    .container {
+        margin: 0 auto;
+        color: #fff;
+    }
+
+    .footer {
+        color: #FFF;
+        .footer__list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: row;
+        }
+    }
+}
